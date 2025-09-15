@@ -39,8 +39,8 @@ const ShilaBoostWebsite = () => {
       id: 1,
       name: 'ShilaBoost Premium Shilajit',
       size: '10g',
-      price: 1999,
-      originalPrice: 2999,
+      price: out of stock ,
+      originalPrice: out of stock,
       image: 'https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/35e25630-e4d3-466e-a445-4ca76550e7c7.png',
       description: 'Pure Himalayan Shilajit by ShilaBoost - 10g premium quality for enhanced energy and vitality'
     },
@@ -48,8 +48,8 @@ const ShilaBoostWebsite = () => {
       id: 2,
       name: 'ShilaBoost Premium Shilajit',
       size: '20g',
-      price: 3499,
-      originalPrice: 4999,
+      price: out of stock,
+      originalPrice: out of stock,
       image: 'https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/a1c92232-8a7a-4575-932f-354dbb138a83.png',
       description: 'Pure Himalayan Shilajit by ShilaBoost - 20g premium quality for extended wellness benefits'
     }
